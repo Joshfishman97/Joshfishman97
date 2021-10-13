@@ -11,7 +11,7 @@ I am currently looking for work as a junior backend software eningeer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on The star-wars-blog-reading-list and the Node.js API.
+- 🔭 I’m currently working on The Breathecode API!
 - 🌱 I’m currently learning Node.js and more about Flask
 - 👯 I’m looking to collaborate on any project that could increase my knowledge.
 - 🤔 I’m looking for help with finding another coding mentor!
