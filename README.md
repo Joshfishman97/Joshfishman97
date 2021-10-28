@@ -11,7 +11,7 @@ I am currently looking for work as a junior backend software eningeer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on The Breathecode API and my own E-commerce website using Django!
+- 🔭 I’m currently working on The Breathecode API, Python, Django/DjangoRestFramework and learning more advanced uses for Postman!
 - 🌱 I’m currently learning Django Rest Framework and Django.
 - 👯 I’m looking to find employment doing what I love!
 - 🤔 I’m looking for a mentor!
