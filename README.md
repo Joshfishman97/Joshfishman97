@@ -3,7 +3,7 @@
  - 🌱 I’m currently learning Node.js and more about Flask in order to become a backend coder
  - 👯 I’m looking to collaborate on any project that could increase my knowledge.
  - 🤔 I’m looking for help with finding another coding mentor!
- - 💬 Ask me about anything related to coding!
+ - 💬 Ask me about my current projects!
  - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
 I am currently looking for work as a junior backend software eningeer 
 <!--
