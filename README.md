@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to coding!
 - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I am currently taking a excellerated 7 week Calc class in order to meet the prequisites to apply to a Masters in CS program!
 I am currently looking for work as a junior backend software eningeer 
 -->
