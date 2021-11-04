@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am currently taking a excellerated 7 week Calc class in order to meet the prequisites to apply to a Masters in CS program!
 I am currently looking for work as a junior backend software engineer or a junior fullstack software engineer
 -->
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
 
+name: Profile Readme Stats
+uses: teoxoy/profile-readme-stats@v1.2
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
 
