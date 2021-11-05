@@ -43,5 +43,4 @@ I am currently looking for work as a junior backend software engineer or a junio
 
 ---
 
-###Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshFishman97&show_icons=true&theme=tokyonight)
