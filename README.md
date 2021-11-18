@@ -5,7 +5,7 @@
  - 🤔 I’m looking for help with finding another coding mentor!
  - 💬 Ask me about anything by messaging me on my Linkedin
  - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
-I am currently looking for work as a junior backend software eningeer 
+  - Jr. Software Engineer
 <!--
 **Joshfishman97/Joshfishman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
