@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to coding!
 - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am currently taking working on a project for Develope for Good!
-I am currently looking for work as a junior backend software engineer or a junior fullstack software engineer
+- ⚡ Fun fact: ... I am currently taking working for a great company as a junior Fullstack SWE
+
 -->
 
  # Languages and Tools:
