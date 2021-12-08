@@ -1,6 +1,6 @@
 ### Hi there 👋
   -🔭 I’m currently working on The star-wars-blog-reading-list and the Node.js API.
- - 🌱 I’m currently learning Node.js and more about Flask in order to become a backend coder
+ - 🌱 I’m currently learning Node.js and working on a project for the company I work for!
  - 👯 I’m looking to collaborate on any project that could increase my knowledge.
  - 🤔 I’m looking for help with finding another coding mentor!
  - 💬 Ask me about anything by messaging me on my Linkedin
