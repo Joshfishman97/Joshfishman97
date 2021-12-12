@@ -1,5 +1,5 @@
 ### Hi there 👋
-  -🔭 I’m currently working on a project for my work using React.
+  -🔭 I’m currently working on a project for my work using React and grind out Leetcode!!!
  - 🌱 I’m currently learning Node.js and working on a project for the company I work for!
  - 👯 I’m looking to collaborate on any project that could increase my knowledge.
  - 🤔 I’m looking for help with finding another coding mentor!
