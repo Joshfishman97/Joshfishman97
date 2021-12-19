@@ -1,5 +1,5 @@
 ### Hi there 👋
-  -🔭 I’m currently working on a project for my work using React and grind out Leetcode!!!
+  -🔭 I’m currently working on a project for my work using learning webscrapping with Pylenium/Selenium and grind out Leetcode!!!
  - 🌱 I’m currently learning Node.js and working on a project for the company I work for!
  - 👯 I’m looking to collaborate on a world changing project!
  - 🤔 I’m looking for guide with leetcode. 
@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on The Breathecode API, Python, Django/DjangoRestFramework and learning more advanced uses for Postman!
 - 🌱 I’m currently learning Django Rest Framework and Django.
-- 👯 I’m looking to find employment doing what I love!
+- 👯 I’m looking to learn more about webscrapping
 - 🤔 I’m looking for a mentor!
 - 💬 Ask me about anything related to coding!
 - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am currently taking working for a great company as a junior Fullstack SWE and working on making a widget with react
+- ⚡ Fun fact: ... I am currently working for a great company as a Junior Fullstack SWE and reading the documentation on webscrapping with Selenium/Pylenium
 
 -->
 
