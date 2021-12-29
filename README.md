@@ -1,6 +1,7 @@
 ### Hi there 👋
-  -🔭 I’m currently working on a project for my work using learning webscrapping with Pylenium/Selenium and grind out Leetcode!!!
- - 🌱 I’m currently learning Node.js and working on a project for the company I work for!
+  -🔭 I’m currently working on a grinding out Leetcode!!!
+ - 🌱 I’m currently learning Node.js a
+ - nd working on a project for the company I work for!
  - 👯 I’m looking to collaborate on a world changing project!
  - 🤔 I’m looking for guide with leetcode. 
  - 💬 Ask me about anything by messaging me on my Linkedin
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to coding!
 - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am currently working for a great company as a Junior Fullstack SWE and reading the documentation on webscrapping with Selenium/Pylenium
+- ⚡ Fun fact: ...
 
 -->
 
