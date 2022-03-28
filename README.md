@@ -1,12 +1,11 @@
 ### Hi there 👋
-  -🔭 I’m currently working on a grinding out Leetcode!!!
- - 🌱 I’m currently learning Node.js a
- - nd working on a project for the company I work for!
+  -🔭 I’m currently Going to school at Oregon State University 
+ - 🌱 I’m currently using Python to solve problems for my classes
  - 👯 I’m looking to collaborate on a world changing project!
- - 🤔 I’m looking for guide with leetcode. 
+ - 🤔 I’m looking for people who want to code with me
  - 💬 Ask me about anything by messaging me on my Linkedin
  - 📫 How to reach me: https://www.linkedin.com/in/josh-fishman-972054214/
-  - Jr. Full Stack Software Engineer
+
 <!--
 **Joshfishman97/Joshfishman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
